@@ -32,3 +32,13 @@ Developed by [Guilherme Branco Stracini](https://www.guilhermebranco.com.br) for
 © 2012 ~ 2023 All rights reserved.
 
 ---
+## Running Tests
+
+To run the tests locally, navigate to the test project directory and use the `dotnet test` command:
+
+```bash
+cd Tests/EditoraInovacao.Sankhya.Entities.Tests
+dotnet test
+```
+
+Ensure that all tests pass before commiting.
