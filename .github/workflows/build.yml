@@ -31,5 +31,6 @@ jobs:
         run: dotnet build -c Release
 
       - name: Run tests
+         run: dotnet test Tests/EditoraInovacao.Sankhya.Entities.Tests/EditoraInovacao.Sankhya.Entities.Tests.csproj
         run: dotnet test -c Release --no-build --no-restore
  
