@@ -11,5 +11,7 @@
     <PackageReference Include="CrispyWaffle" Version="8.0.0" />
     <PackageReference Include="Sankhya" Version="3.0.601" />
   </ItemGroup>
+    <ProjectReference Include="..\..\Tests\EditoraInovacao.Sankhya.Entities.Tests\EditoraInovacao.Sankhya.Entities.Tests.csproj" />
+
 
 </Project>
