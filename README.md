@@ -26,6 +26,14 @@ dotnet add package EditoraInovacao.Sankhya.Entities
 ```
 
 ---
+---
+
+## Running Tests
+
+To run the tests locally, use the following command:
+
+```bash
+dotnet test EditoraInovacao.Sankhya.Entities.Tests/EditoraInovacao.Sankhya.Entities.Tests.csproj
 
 Developed by [Guilherme Branco Stracini](https://www.guilhermebranco.com.br) for [Editora Inovação](https://www.editorainovacao.com.br) 
 
