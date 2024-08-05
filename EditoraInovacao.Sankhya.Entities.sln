@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditoraInovacao.Sankhya.Ent
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditoraInovacao.Sankhya.Entities.Tests", "Tests\\EditoraInovacao.Sankhya.Entities.Tests\\EditoraInovacao.Sankhya.Entities.Tests.csproj", "{C704B5D8-7E38-4C02-A8D3-8AB99F85F6DD}"
+EndProject
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
