@@ -13,6 +13,14 @@ The Nuget package with custom Sankhya entities
 The Sankhya custom entities library.
 
 ---
+---
+
+## Running Tests
+
+To run the tests locally, navigate to the `Tests` directory and execute:
+```bash
+dotnet test
+```
 
 ## NuGet - Package Manager for .NET
 
